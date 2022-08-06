@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LikeWang003
-- 👀 I’m interested in Minecraft and LEGO :)
+- 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Java, C and Linux
 - 💞️ I’m looking to collaborate on Android Studio APP Developing
 - 📫 How to reach me: linkedin: https://www.linkedin.com/in/like-wang-31188b233/
